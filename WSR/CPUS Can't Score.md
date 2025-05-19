@@ -1,8 +1,9 @@
 
 ## CPUS Can't Score
 
-Makes it so the CPUS in every game (besides cycling) can't score a single point. This is only for NTSC Rev 1 (for now).
+Makes it so the CPUS in every game (besides cycling) can't score a single point.
 <details>
+<summary>NTSC Rev 1</summary>
 <summary>Table Tennis</summary>
 
 ```powerpc
