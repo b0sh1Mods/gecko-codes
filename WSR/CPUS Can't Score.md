@@ -1,7 +1,7 @@
 
 ## CPUS Can't Score
 
-Makes it so the CPUS in every game (besides cycling) can't score a single point.
+Makes it so the CPUS in every game (besides cycling and showdown) can't score a single point.
 <details>
 <summary>NTSC Rev 1</summary>
 
