@@ -4,7 +4,6 @@
 Makes it so the CPUS in every game (besides cycling) can't score a single point.
 <details>
 <summary>NTSC Rev 1</summary>
-<summary>Table Tennis</summary>
 
 ```powerpc
 0527637C 00000000
