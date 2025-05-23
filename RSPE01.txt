@@ -1,0 +1,6 @@
+RSPE01
+Wii Sports
+
+Infinite Boxing Time [Boshi]
+42000000 90000000
+05BF3E45 60A0003F
