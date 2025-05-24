@@ -8,7 +8,7 @@ This code is NOT done yet, so far I have the code provided just makes it so you 
 
 ## WARNING (IMPORTANT)
 
-The disable going to the home menu applies to everything in WSR. I will say it again "EVERYTHING". The only way to go back to the Wii Menu is turning off your console. It's the same with normal pausing.
+The disable going to the home menu applies to everything in WSR. I will say it again "EVERYTHING". The only way to go back to the Wii Menu is turning off your console. It's the same with normal pausing. I would recommend pressing 2 on your Wii Remote before the game, so it loads the 11 point match.
 
 Give me more ideas to make this harder in the "Pull Requests" tab at the top of the page.
 <details>
