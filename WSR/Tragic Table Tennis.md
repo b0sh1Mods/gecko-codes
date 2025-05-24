@@ -17,7 +17,7 @@ Give me more ideas to make this harder in the "Pull Requests" tab at the top of 
 ```powerpc
 0527637F 0000000B
 42000000 90000000
-041D273E 00010001
+041D273D 01000000
 42000000 90000000
 0415E08B 00000000
 ```
