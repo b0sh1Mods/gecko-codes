@@ -12,6 +12,6 @@ If you load the B-C unused holes on console, the game will crash
 
 ```powerpc
 42000000 90000000
-0XBF0ACB 0CFFFFFF
+05BF0ACB 0XFFFFFF
 ```
 </details>
