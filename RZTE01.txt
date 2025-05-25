@@ -70,3 +70,8 @@ Tragic Table Tennis [Boshi]
 42000000 90000000
 0415E08B 00000000
 04D6B7F7 3B000000
+
+Custom Island Mode [Boshi]
+42000000 90000000
+0426B667 0000000X
+Check the original page for the X value
