@@ -8,12 +8,12 @@ Replace X with 0-8 for normal holes and 9-A for unused holes on console and B-C 
 
 If you load the B-C unused holes on console, the game will crash
 
-This code does NOT work at all. If someone can fix it, I would love it.
+RESET IF YOU COMPLETED A HOLE. If you don't the game will crash. You can either go to the home menu to reset or use the [Pause Anytime] (https://www.speedrun.com/wiisports/resources/04hpj) code to restart the game.
 <details>
 <summary>NTSC Rev 1</summary>
 
 ```powerpc
 42000000 90000000
-05BF0ACB 0XFFFFFF
+05BF0ACB 0000000X
 ```
 </details>
