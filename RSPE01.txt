@@ -5,11 +5,6 @@ Infinite Boxing Time [Boshi]
 42000000 90000000
 05BF3E45 60A0003F
 
-Custom Hole Selector [Boshi]
-42000000 90000000
-05BF0ACB 0XFFFFFF
-Check the original link for the X values
-
 Custom Wind Speed [Boshi]
 42000000 90000000
 05BF377B XX803C77
