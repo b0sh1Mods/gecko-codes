@@ -7,6 +7,8 @@ I would recommend using a wind mod like "Zero Wind", because the code makes it s
 Replace X with 0-8 for normal holes and 9-A for unused holes on console and B-C for unused holes on Dolphin
 
 If you load the B-C unused holes on console, the game will crash
+
+This code does NOT work at all. If someone can fix it, I would love it.
 <details>
 <summary>NTSC Rev 1</summary>
 
