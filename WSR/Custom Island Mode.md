@@ -5,13 +5,11 @@ Makes it so Wuhu Island is either Day, Evening, or Night. Kiwi and JimmyKaz alre
 Change the X to one of these Values: 0 = Day (Default), 1 = Evening, and 2 = Night
 
 This affects every part of the game, besides the Golf Modes
-
-OMFG WHY DO THE BEST CODES NEVER WORK ON CONSOLE
 <details>
 <summary>NTSC Rev 1</summary>
 
 ```powerpc
 42000000 90000000
-0426B667 0X010000
+0426B667 0000000X
 ```
 </details>
