@@ -1,5 +1,5 @@
 # Boshi's Gecko Codes
-Just using this now for gecko codes so I can save them
+This will contain every gecko codes that I have made for Wii Games, except for the corruptions codes shown on [my channel](https://www.youtube.com/@BowserJrGamer1). If you want to use the gecko codes in your own videos, then you are welcome to as long as you credit me and any other people that helped with the gecko code you used.
 
 ## Instructions
 
