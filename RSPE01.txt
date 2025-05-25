@@ -9,3 +9,8 @@ Custom Wind Speed [Boshi]
 42000000 90000000
 05BF377B XX803C77
 Check the original link for the XX values
+
+Custom Hole Selector [Boshi]
+42000000 90000000
+05BF0ACB 0000000X
+Check the original link for the X values
