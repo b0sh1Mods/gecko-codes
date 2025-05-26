@@ -74,4 +74,9 @@ Tragic Table Tennis [Boshi]
 Custom Island Mode [Boshi]
 42000000 90000000
 0426B667 0000000X
-Check the original page for the X value
+Check the original page for the X values
+
+Showdown Practice Mode [Boshi]
+42000000 90000000
+0426B303 000000XX
+Check the original page for the XX values
