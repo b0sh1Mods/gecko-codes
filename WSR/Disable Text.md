@@ -6,7 +6,7 @@ Made this while messing with another code
 <summary>NTSC Rev 1</summary>
 
 ```powerpc
-c210ec54 00000001
+C210EC54 00000001
 38000001 00000000
 ```
 </details>
