@@ -7,6 +7,6 @@ The 1 Hit code by itself will also affect the player, so the Infinite Health cod
 
 ```powerpc
 0463B210 2C000003
-0463A010 38800005
+052C6203 00000005
 ```
 </details>
