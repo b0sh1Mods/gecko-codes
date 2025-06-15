@@ -15,6 +15,7 @@ This exist in both Wii Sports and Wii Sports Resort.
 0430DFCC 2C000001
 ```
 </details>
+<details>
 <summary>PAL Rev 1</summary>
 
 ```powerpc
