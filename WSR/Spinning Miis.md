@@ -6,6 +6,6 @@ If yall play Storm Island on PAL, then this already exist with Masters Ping Pong
 <summary>NTSC Rev 1</summary>
 
 ```powerpc
-0433E55C 60000000
+0433E23C 60000000
 ```
 </details>
