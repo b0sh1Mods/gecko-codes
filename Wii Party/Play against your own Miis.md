@@ -10,7 +10,7 @@ The actual gecko code is on [this website](https://b0sh1Mods.github.io/GeckoCode
 
 ## Progress
 
-### Main Game:
+### Party Games:
 Board Game Island: Loads but crashes as soon as fade in end (when the first minigame starts)
 
 Globe Trot: Works perfectly
@@ -22,3 +22,25 @@ Spin Off: Doesn't work at all
 Bingo: Works pefectly
 
 
+### Pair Games:
+Balance Boat: Loads but crashes after completing the first minigame
+
+Match up: Doesn't work at all
+
+
+### Minigame Modes:
+Battle: Doesn't work
+
+
+### 4 Player Minigames (only ones that don't work cuz it too long):
+Goal Getters: Loads but crashes as soon as a CPU kicks the ball
+
+Maze Daze: Loads but crashes as soon as a CPU Mii goes on the spinning thing
+
+Friendly Face-Off: Works but can only select one piece
+
+Strategy Steps: Works but softlocks after selecting all numbers
+
+Hammer Heads: Works but crashes after you finish it
+
+Rope Sling: Same thing as Hammer Heads I think (Idk if it's dolphin)
