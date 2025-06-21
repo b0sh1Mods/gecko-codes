@@ -1,6 +1,6 @@
 ## Play against your own Miis
 
-The actual gecko code is on [this website](b0sh1Mods.github.io), but I don't think anyone will understand how to get it working right
+The actual gecko code is on [this website](https://b0sh1Mods.github.io), but I don't think anyone will understand how to get it working right
 
 This page is for how to get it working, how it works, and the bugs/crashes.
 
