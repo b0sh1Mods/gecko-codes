@@ -10,11 +10,15 @@ The actual gecko code is on [this website](https://b0sh1Mods.github.io/GeckoCode
 
 ## Progress
 
-# Main Game:
+### Main Game:
 Board Game Island: Loads but crashes as soon as fade in end (when the first minigame starts)
+
 Globe Trot: Works perfectly
+
 Swap Meet: Works perfectly
+
 Spin Off: Doesn't work at all
+
 Bingo: Works pefectly
 
 
