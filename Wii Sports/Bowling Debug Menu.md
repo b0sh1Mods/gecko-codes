@@ -3,11 +3,9 @@
 Actual code is gonna be on the site but this is just the source code for it
 
 <details>
-  <summery>
-    Source Code (NTSC Rev 1)
-  </summery>
-  ```PowerPC
-  #r19 = String
+  <summery>Source Code (NTSC Rev 1)</summery>
+  ```powerpc
+#r19 = String
 #r20 = Address to replace String
 
 # Enable Debug Menu
@@ -275,5 +273,6 @@ stw r19, 0x0(r20)
 __set r20, 0x80392300
 __set r19, 0x4E4F524D
 
-stw r19, 0x0(r20)```
+stw r19, 0x0(r20)
+```
 </details>
