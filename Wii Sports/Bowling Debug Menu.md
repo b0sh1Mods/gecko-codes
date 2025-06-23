@@ -4,7 +4,7 @@ Actual code is gonna be on the site but this is just the source code for it
 <details>
 <summary>NTSC Rev 1</summary>
   
-  ```powerpc
+  ```asm
 #r19 = String
 #r20 = Address to replace String
 
