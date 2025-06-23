@@ -1,9 +1,9 @@
 ## Bowling Debug Menu
 
 Actual code is gonna be on the site but this is just the source code for it
-
 <details>
-  <summery>Source Code (NTSC Rev 1)</summery>
+<summary>NTSC Rev 1</summary>
+  
   ```powerpc
 #r19 = String
 #r20 = Address to replace String
