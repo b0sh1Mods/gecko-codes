@@ -44,3 +44,11 @@ Strategy Steps: Works but softlocks after selecting all numbers
 Hammer Heads: Works but crashes after you finish it
 
 Rope Sling: Same thing as Hammer Heads I think (Idk if it's dolphin)
+
+Face Flip: Same things as last one
+
+Shutterpup: Crashes
+
+Cry Babies: Crashes
+
+Risky Railroad: Crashes
