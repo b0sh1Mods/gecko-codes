@@ -52,3 +52,23 @@ Shutterpup: Crashes
 Cry Babies: Crashes
 
 Risky Railroad: Crashes
+
+
+## 1v3 Minigames:
+
+Poserobics: Crashes
+
+
+## 1v1 Minigames: 
+
+TV Game: Crashes
+
+Spring Time: Crashes
+
+Roll to the Goal: Crashes
+
+Fruit Focus: Crashes
+
+
+## Pair Minigames:
+
